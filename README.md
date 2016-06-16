@@ -1,6 +1,6 @@
 # Calculator web app demo project
 
-HELLO
+HELLO AGAIN
 Calculator web application demo project, used for various 
 training classes around continuous delivery by Praqma.
 
